@@ -59,7 +59,7 @@ No additional configuration is required to accept more connections. As new clien
 
 ---
 
-## 🔧 Features & Options
+## Features & Options
 
 After clients are connected, the tool provides a menu of options. Some of the most useful ones include:
 
